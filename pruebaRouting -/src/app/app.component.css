@@ -1,0 +1,27 @@
+button {
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
+    border-radius: 10px;
+    margin: 8px;
+    padding: 6px;
+    border: none;
+}
+.nav {
+    text-align: center;
+    width: 100%;
+    margin: 8px;
+
+}
+button:hover {
+    background-color: tomato;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+    
+
+
+}
+button:focus {
+    border: none;
+    
+    outline: none;
+
+    
+}
